@@ -29,6 +29,6 @@ Chortle is a real-time visualizer for exploring 3D fractals. It uses GLSL to ren
 *  _swig/_  
    Swig interface and Swig-generated Python bindings
 
-Created: 2017-04-01 
+Created: 2017-04-01  
 Edited: 2018-04-27
  
