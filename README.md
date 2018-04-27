@@ -11,7 +11,7 @@ Chortle is a real-time visualizer for exploring 3D fractals. It uses GLSL to ren
 *  make genswig -- makes the Python bindings; requires libraries to be built
 
 ### Running Chortle
-* ./python/Chortle.py
+* ./python/Chortle.py  
 This will run the Chortle interface. The path to swig/\_chortle.co must be in the PYTHONPATH envvar and the path to lib/libCackle.a must in the LD\_LIBRARY\_PATH envvar for Chortle to launch.
 
 ### Directories
